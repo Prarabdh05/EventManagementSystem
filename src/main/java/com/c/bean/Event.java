@@ -1,4 +1,4 @@
-package com.genpact.bean;
+package com.c.bean;
 
 import java.util.Date;
 

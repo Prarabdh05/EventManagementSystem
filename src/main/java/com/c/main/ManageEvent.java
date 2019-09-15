@@ -1,4 +1,4 @@
-package com.genpact.main;
+package com.c.main;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -13,7 +13,7 @@ import java.util.Date;
 import java.util.Scanner;
 import java.util.TreeSet;
 
-import com.genpact.bean.Event;
+import com.c.bean.Event;
 
 public class ManageEvent {
 	

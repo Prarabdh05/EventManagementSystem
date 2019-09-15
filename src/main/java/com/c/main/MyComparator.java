@@ -1,8 +1,8 @@
-package com.genpact.main;
+package com.c.main;
 
 import java.util.Comparator;
 
-import com.genpact.bean.Event;
+import com.c.bean.Event;
 
 public class MyComparator implements Comparator<Event> {
 	public int compare(Event e1, Event e2) {

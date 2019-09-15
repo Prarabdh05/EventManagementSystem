@@ -1,4 +1,4 @@
-package com.genpact.main;
+package com.c.main;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-import com.genpact.bean.Event;
+import com.c.bean.Event;
 
 public class MainFunction {
 public static void main(String[] args) throws IOException, MyException {
